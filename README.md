@@ -60,12 +60,11 @@ This project includes an end-to-end data cleaning and analysis workflow using Py
 - Used SQLAlchemy to upload the cleaned DataFrame into PostgreSQL
 - Automated table creation and data insertion
 
-##
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PEqNcQ6uoM19LHe4_b1Q-Snk3a_PwNJe?usp=sharing)
 
 
 ---
 
 ## 📄 Credits
-- Dataset Source: *[Kaggle/Olist]*  
+- Dataset Source: *[[Kaggle](https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis)]*  
 - Created by: **Saurav Kumar**
