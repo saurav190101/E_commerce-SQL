@@ -3,7 +3,7 @@
 
 # 🛒 E-commerce Sales Analysis Project (PostgreSQL +Python)
 
-![logo]()
+![logo](https://github.com/saurav190101/E_commerce-SQL/blob/main/showing-cart-trolley-shopping-online-sign-graphic_53876-133967.jpg)
 
 
 ## 📊 Project Summary
