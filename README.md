@@ -3,6 +3,9 @@
 
 # 🛒 E-commerce Sales Analysis Project (PostgreSQL +Python)
 
+![logo]()
+
+
 ## 📊 Project Summary
 This project explores a real-world e-commerce dataset using PostgreSQL for advanced SQL querying . The goal is to extract valuable business insights to help stakeholders make strategic decisions.
 
