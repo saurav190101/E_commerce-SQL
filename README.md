@@ -49,7 +49,8 @@ This project explores a real-world e-commerce dataset using PostgreSQL for advan
 10. First and Last Purchase per Customer (Window Functions)
   
 
-
+## Dashbord look like
+![logo]()
 
 ---
 This project includes an end-to-end data cleaning and analysis workflow using Python (Pandas + SQLAlchemy) and PostgreSQL.
