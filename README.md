@@ -50,7 +50,7 @@ This project explores a real-world e-commerce dataset using PostgreSQL for advan
   
 
 ## Dashbord look like
-![logo](https://github.com/saurav190101/E_commerce-SQL/blob/main/Screenshot%202025-05-02%20203907.png)
+![logo](https://github.com/saurav190101/E_commerce-SQL/blob/main/Screenshot%202025-05-08%20133445.png)
 
 ---
 This project includes an end-to-end data cleaning and analysis workflow using Python (Pandas + SQLAlchemy) and PostgreSQL.
